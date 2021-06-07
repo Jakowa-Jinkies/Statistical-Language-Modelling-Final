@@ -1,2 +1,3 @@
 venv/
 blogtext.csv
+data/blogtext_trimmed.csv
